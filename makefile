@@ -4,4 +4,4 @@ README.md:
 	date >> README.md
 	echo "# the Total number of lines in guessinggame.sh file is :" >>README.md
 	wc -l guessinggame.sh >> README.md
-	echo " made by WALEED ALHALILI " >>README.md
+	echo "- **made by WALEED ALHALILI** " >>README.md
